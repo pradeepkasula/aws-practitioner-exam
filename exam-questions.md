@@ -29,9 +29,9 @@ D. Reliability <br>
 5. A large company has multiple departments. Each department has its own AWS account. Each department has purchased Amazon EC2 Reserved Instances. Some departments do not use all the Reserved Instances that they purchased, and other departments need more Reserved Instances than they purchased. The company needs to manage the AWS accounts for all the departments so that the departments can share the Reserved Instances.
 Which AWS service or tool should the company use to meet these requirements? <br>
 A. AWS Systems Manager <br>
-B. Cost Explorer <br>
+**B. Cost Explorer** <br>
 C. AWS Trusted Advisor <br>
-**D. AWS Organizations** <br>
+D. AWS Organizations <br>
 
 6. Which component of the AWS global infrastructure is made up of one or more discrete data centers that have redundant power, networking, and connectivity? <br>
 A. AWS Region <br>
